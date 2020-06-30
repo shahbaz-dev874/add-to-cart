@@ -21,7 +21,7 @@
 
     <div class="container fluid">
         <div class="jumbotron">
-            <h1>AddToCart in Php</h1>
+            <h1>AddToCart in <small>Php</small></h1>
         </div>
         <div class="row">
             <div class="col-lg-12 col-md-12">
